@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 42b10e0f987070646a7102cdfd050299
+timeCreated: 1479844741
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - newcubeSpawn: {fileID: 1000013231154896, guid: 3e7a60d8f65911c46ac612cb71a4680d,
+      type: 2}
+  - cubeSpawn: {fileID: 1000013231154896, guid: 3e7a60d8f65911c46ac612cb71a4680d,
+      type: 2}
+  - cube_blue: {fileID: 2800000, guid: 086927828d86fad4da72a6f88885ac3b, type: 3}
+  - cube_yellow: {fileID: 2800000, guid: e48441c469657fc44ab8a643396bdae0, type: 3}
+  - cube_green: {fileID: 2800000, guid: 45a73ff6b092f0b4b993b1b38d1737ba, type: 3}
+  - cube_orange: {fileID: 2800000, guid: a508625e9387a634e8e5cd811b480e4f, type: 3}
+  - cube_pink: {fileID: 2800000, guid: 931ae3618fbabec41bef2ab858bfdb0e, type: 3}
+  - cube_red: {fileID: 2800000, guid: e292565ef584a2040b220aa756a6d0a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

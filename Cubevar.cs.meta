@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8a5a98759e5d856408a721a5f73a0e85
+timeCreated: 1480341192
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - selection1: {instanceID: 0}
+  - selection2: {instanceID: 0}
+  - selectionHold: {instanceID: 0}
+  - GameController: {instanceID: 0}
+  - swapnoise: {fileID: 8300000, guid: 4824c5fe70345914bb2dd7f3641479ad, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
